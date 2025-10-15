@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wedding Invitation Thinh & Chi 💍</title>
+
+  <!-- Open Graph Preview -->
+  <meta property="og:title" content="Wedding Invitation Thinh & Chi 💍">
+  <meta property="og:description" content="11:30 AM ❤️ 19/10/2025 | Thien Huong Wedding">
+  <meta property="og:image" content="https://weddingthinhchi.vercel.app/MVP_7929.jpg">
+  <meta property="og:url" content="https://weddingthinhchi.my.canva.site/">
+  <meta property="og:type" content="website">
+
+  <!-- Redirect -->
+  <meta http-equiv="refresh" content="0; url=https://weddingthinhchi.my.canva.site/">
+</head>
+<body style="font-family: sans-serif; text-align: center; margin-top: 50px;">
+  <p>Nếu bạn không được chuyển tiếp, hãy nhấn vào 
+    <a href="https://weddingthinhchi.my.canva.site/">đây để xem thiệp cưới Thịnh & Chi</a>.
+  </p>
+</body>
+</html>
